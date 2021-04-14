@@ -1,3 +1,7 @@
+// Testing the api
+// Just used to figure out how circle works
+// before building an api around it
+
 require("dotenv").config()
 const axios = require("axios")
 const openpgp = require("openpgp")
